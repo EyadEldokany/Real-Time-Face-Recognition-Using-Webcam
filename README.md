@@ -1,7 +1,3 @@
-Here's a README file for your face recognition project:
-
----
-
 # Real-Time Face Recognition Using Webcam
 
 ## Overview
